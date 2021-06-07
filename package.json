@@ -1,0 +1,16 @@
+{
+  "name": "psp-rates",
+  "version": "1.0.0",
+  "description": "Fetch rates every day.",
+  "main": "app.js",
+  "author": "Thibeault Chenu <contact@tchenu.com>",
+  "license": "MIT",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "jsdom": "^16.5.3",
+    "sqlite3": "^5.0.2"
+  }
+}
